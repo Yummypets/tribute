@@ -3,7 +3,6 @@
   "version": "3.3.4",
   "description": "Native ES6 @mentions",
   "main": "dist/tribute.js",
-  "types": "tributejs.d.ts",
   "devDependencies": {
     "babel-cli": "~6.26.0",
     "babel-plugin-add-module-exports": "^0.2.1",
